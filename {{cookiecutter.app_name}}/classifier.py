@@ -1,4 +1,4 @@
-2020..04.15
+2020.04.15
 ZYY happy today
 '''
 This script performs the basic process for applying a machine learning
