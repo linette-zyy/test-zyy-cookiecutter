@@ -1,10 +1,5 @@
-2021.12.31
-lalalalalalalalalalla'
-
-
-
-
-lalalalalalalallalalaalal
+2022.01.20
+Happy new year!!!!
 '''
 This script performs the basic process for applying a machine learning
 algorithm to a dataset using Python libraries.
