@@ -1,5 +1,5 @@
-2022.08.12
-zhaoniqulou
+2022.08.18
+buzhidao shibushi
 '''
 This script performs the basic process for applying a machine learning
 algorithm to a dataset using Python libraries.
