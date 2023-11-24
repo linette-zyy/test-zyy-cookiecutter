@@ -1,5 +1,5 @@
-2023.11.22
-jiaxingougou,ainio
+2023.11.24
+mingmingyizhihenhaokan 
 
 '''
 This script performs the basic process for applying a machine learning
