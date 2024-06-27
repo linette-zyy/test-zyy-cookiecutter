@@ -1,5 +1,5 @@
-2024.06.21
-nanshounanshou chebeizhuangle
+2024.06.27
+jintianhaiyaononglian,mingtianjiuhaokanle
 
 '''
 This script performs the basic process for applying a machine learning
