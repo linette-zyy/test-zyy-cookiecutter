@@ -1,5 +1,5 @@
-2024.06.27
-jintianhaiyaononglian,mingtianjiuhaokanle
+2024.07.08
+henfan
 
 '''
 This script performs the basic process for applying a machine learning
